@@ -1,3 +1,4 @@
+# resource 
 resource aws_ecr_repository "repository" {
   name                 = "ebilling-ecr-3retrfdf"
   image_tag_mutability = "MUTABLE"
